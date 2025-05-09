@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.icon {
+  @apply w-6 h-6;
+}
+
+.container {
+  @apply py-5 px-4;
+}
